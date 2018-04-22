@@ -1,7 +1,6 @@
 #!/usr/bin/python
 """
 Steve Homick
-Datto Inc 2018
 
 Python agentinfoQuery script.
 
